@@ -1,0 +1,6 @@
+@ExtractorSemanticoApi_HostAddress = http://localhost:5062
+
+GET {{ExtractorSemanticoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
